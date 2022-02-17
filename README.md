@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zlianghahaha
-- 👀 I’m interested in quantum machine learning.
+- 👀 I’m interested in quantum machine learning and quantum pulse control.
 - 🌱 I’m currently a PhD student@university of notre dame!
 - 📫 How to reach me: zliang5@nd.edu
 
